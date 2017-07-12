@@ -23,7 +23,6 @@ gem 'kaminari'
 gem 'seed-fu'
 gem 'gretel'
 gem 'coffee-rails', '~> 4.2'
-gem 'rmagick'
 gem 'paperclip'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
